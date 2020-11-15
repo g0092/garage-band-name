@@ -1,6 +1,6 @@
 function generator() {
 	// word lists
-	var firstPart = ["Iron", "Battery", "Trolley", "Motor", "Car Creepers", "Hydraulic", "Wheel", "Cars", "Oil", "Power", "Wrenches", "Mechanical", "Paint Cans", "Hammer", "Spiders", "Bikes", "Old", "Newspaper and Magazines", "Ladder", "Lights", "Motor oil", "Garbage Can", "Ladder", "Radio", "Jigsaw", "Nail", "Wire"];
+	var firstPart = ["Iron", "Battery", "Trolley", "Motor", "Car Creepers", "Hydraulic", "Wheel", "Cars", "Oil", "Power", "Wrenches", "Mechanical", "Paint Cans", "Hammer", "Spiders", "Bikes", "Old", "Newspaper and Magazines", "Ladder", "Lights", "Motor oil", "Garbage Can", "Ladder", "Radio", "Jigsaw", "Nail", "Wire", "Corvette", "Mustang"];
 var secondPart = ["of Evil", "Rocks", "of Androids", "of Robots", "Blades"];
 
 	// generate name

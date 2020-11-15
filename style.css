@@ -1,4 +1,46 @@
-html, body {
-    height: 100%;
-    
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Verdana', sans-serif;
+}
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 46px;
+}
+
+p {
+    font-size: 26px;
+}
+
+button {
+    background: white;
+    margin: 20px;
+    border-radius: 5px;
+    width: auto;
+    height: 60px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+}
+
+button:hover {
+    background: black;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    margin: 20px;
+    border-radius: 5px;
+    width: auto;
+    height: 60px;
+    font-size: 30px;
+}
+
+#name {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 46px;
 }
