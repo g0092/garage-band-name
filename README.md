@@ -1,2 +1,2 @@
-# garage-band-name
+# Garage band name generator
  
